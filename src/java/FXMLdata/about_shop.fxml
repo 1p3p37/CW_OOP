@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.CubicCurve?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="607.0" prefWidth="814.0" style="-fx-background-color: #2F4F4F;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.AboutShopController">
+    <children>
+        <AnchorPane fx:id="anchorpane" layoutX="1.0" prefHeight="91.0" prefWidth="814.0" style="-fx-background-color: #5D6D7E #5D6D7E;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <Button fx:id="ASproductBut" layoutY="3.0" mnemonicParsing="false" onAction="#ASproductBTN" prefHeight="88.0" prefWidth="207.0" style="-fx-background-color: #5D6D7E;" text="Продукты" textAlignment="CENTER" />
+                <Button fx:id="ASsellerBut" layoutX="198.0" layoutY="3.0" mnemonicParsing="false" onAction="#ASsellerBTN" prefHeight="88.0" prefWidth="207.0" style="-fx-background-color: #5D6D7E;" text="Продавцы" />
+                <Button fx:id="ASaboutshopBut" layoutX="406.0" layoutY="3.0" mnemonicParsing="false" onAction="#ASaboutshopBTN" prefHeight="88.0" prefWidth="207.0" style="-fx-background-color: #5D6D7E;" text="О Магазине" textFill="#00ffbf" />
+                <Line endX="-31.999984741210938" endY="-22.600006103515625" layoutX="690.0" layoutY="26.0" startX="-67.99998474121094" startY="-5.800018310546875" />
+                <Line endX="-85.79997253417969" endY="17.199981689453125" layoutX="763.0" layoutY="3.0" startX="-104.29289245605469" startY="-0.307098388671875" />
+                <Line endX="-92.0" endY="-12.000030517578125" layoutX="870.0" layoutY="21.0" startX="-120.79998779296875" startY="7.999969482421875" />
+                <Line endX="-77.79998779296875" endY="19.399993896484375" layoutX="879.0" layoutY="8.0" startX="-100.0" />
+                <Line endX="260.0" endY="331.29290771484375" layoutX="430.0" layoutY="-281.0" startX="210.39999389648438" startY="324.20001220703125" />
+                <Line endX="-12.20001220703125" endY="6.800018310546875" layoutX="798.0" layoutY="37.0" startX="-72.0" startY="15.20001220703125" />
+                <Line endX="52.0" endY="-7.79998779296875" layoutX="670.0" layoutY="68.0" startX="21.0" startY="-7.79998779296875" />
+                <Line endX="-0.5" endY="-20.29998779296875" layoutX="690.0" layoutY="81.0" startX="15.0" startY="-3.79998779296875" />
+                <Line endX="-0.5" endY="-8.29998779296875" layoutX="722.0" layoutY="69.0" startX="-16.29290771484375" startY="8.907135009765625" />
+                <CubicCurve controlX1="71.0" controlX2="46.20001220703125" controlY1="-19.800018310546875" controlY2="-19.800018310546875" endX="39.0" endY="-32.970855712890625" fill="#5d6d7e" layoutX="669.0" layoutY="115.0" startX="86.20001220703125" startY="-32.970855712890625" stroke="BLACK" />
+                <CubicCurve controlX1="5.8000030517578125" controlX2="35.39996337890625" controlY1="-9.000030517578125" controlY2="-9.000030517578125" endX="41.79998779296875" endY="-21.800018310546875" fill="#5d6d7e" layoutX="663.0" layoutY="104.0" startX="-11.799972534179688" startY="-21.800018310546875" stroke="BLACK" />
+            </children></AnchorPane>
+        <TableView fx:id="AboutShopTable" layoutX="-2.0" layoutY="185.0" prefHeight="66.0" prefWidth="814.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="185.0">
+            <columns>
+                <TableColumn fx:id="ASbossnameCol" prefWidth="285.60004884004593" text="Имя владельца" />
+                <TableColumn fx:id="ASspecializationCol" minWidth="4.0" prefWidth="195.199951171875" text="Специализация" />
+            <TableColumn fx:id="ASaddressCol" minWidth="4.0" prefWidth="330.4000244140625" text="Адресс" />
+            </columns>
+        </TableView>
+        <HBox alignment="CENTER_LEFT" layoutX="-1.0" layoutY="143.0" prefHeight="40.0" prefWidth="814.0" spacing="2.0" AnchorPane.leftAnchor="2.0" AnchorPane.rightAnchor="2.0">
+            <children>
+                <TextField fx:id="ASbossnameTF" prefHeight="34.0" prefWidth="283.0" />
+                <TextField fx:id="ASspecializationTF" prefHeight="34.0" prefWidth="194.0" />
+            <TextField fx:id="ASaddressTF" prefHeight="34.0" prefWidth="326.0" />
+            </children></HBox>
+        <Button fx:id="ASaddBTN" layoutX="14.0" layoutY="111.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Добавить" />
+        <Button fx:id="ASdeleteBTN" layoutX="92.0" layoutY="111.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Удалить" />
+        <Button fx:id="ASupdateBTN" layoutX="161.0" layoutY="111.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Редактировать" />
+        <Button fx:id="ASreloadBTN" layoutX="267.0" layoutY="111.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Обновить таблицу" />
+      <ImageView fitHeight="361.0" fitWidth="533.0" layoutX="-2.0" layoutY="251.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@cat_on_bed.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="363.0" fitWidth="316.0" layoutX="531.0" layoutY="251.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@cat_eat_cage.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="ASaboutBTN" layoutX="708.0" layoutY="111.0" mnemonicParsing="false" onAction="#handleButtonAction" text="О Программе" AnchorPane.rightAnchor="14.0" />
+    </children>
+</AnchorPane>

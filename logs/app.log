@@ -1,0 +1,186 @@
+2021-59-05 13:59:38.551 [main] INFO  Main.Main - Program was begin
+2021-59-05 13:59:41.216 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-59-05 13:59:43.218 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста не оставляете поле пустым
+2021-59-05 13:59:45.787 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {S} Ошибка ввода: вы оставили пустое занчение
+2021-59-05 13:59:48.222 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-59-05 13:59:51.913 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода ID магазина, пожалуйста выберете значение от 1 до 1000
+2021-01-05 14:01:28.365 [main] INFO  Main.Main - Program was begin
+2021-17-05 18:17:25.736 [main] INFO  Main.Main - Program was begin
+2021-17-05 18:17:41.051 [main] INFO  Main.Main - Program was begin
+2021-58-05 19:58:07.475 [main] INFO  Main.Main - Program was begin
+2021-13-05 22:13:56.271 [main] INFO  Main.Main - Program was begin
+2021-14-05 22:14:56.119 [main] INFO  Main.Main - Program was begin
+2021-15-05 22:15:30.154 [main] INFO  Main.Main - Program was begin
+2021-28-05 22:28:45.995 [main] INFO  Main.Main - Program was begin
+2021-29-05 22:29:45.098 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-36-05 22:36:36.496 [main] INFO  Main.Main - Program was begin
+2021-36-05 22:36:44.685 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-49-05 22:49:46.885 [main] INFO  Main.Main - Program was begin
+2021-51-05 22:51:54.105 [main] INFO  Main.Main - Program was begin
+2021-55-05 22:55:19.367 [main] INFO  Main.Main - Program was begin
+2021-57-05 22:57:44.018 [main] INFO  Main.Main - Program was begin
+2021-02-05 23:02:05.195 [main] INFO  Main.Main - Program was begin
+2021-24-06 17:24:06.754 [main] INFO  Main.Main - Program was begin
+2021-38-06 17:38:23.307 [main] INFO  Main.Main - Program was begin
+2021-59-06 17:59:15.408 [main] INFO  Main.Main - Program was begin
+2021-01-06 18:01:58.502 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-08-06 18:08:39.612 [main] INFO  Main.Main - Program was begin
+2021-42-06 18:42:51.661 [main] INFO  Main.Main - Program was begin
+2021-43-06 18:43:36.261 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Редактировать> 
+<:| java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1  |:> 
+2021-45-06 18:45:23.863 [main] INFO  Main.Main - Program was begin
+2021-45-06 18:45:47.997 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Редактировать> 
+<:| java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1  |:> 
+2021-49-06 18:49:48.779 [main] INFO  Main.Main - Program was begin
+2021-50-06 18:50:42.823 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'about_shop.PRIMARY'  |:> 
+2021-50-06 18:50:47.230 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'about_shop.PRIMARY'  |:> 
+2021-57-06 18:57:25.659 [main] INFO  Main.Main - Program was begin
+2021-33-06 19:33:38.115 [main] INFO  Main.Main - Program was begin
+2021-34-06 19:34:15.349 [main] INFO  Main.Main - Program was begin
+2021-35-06 19:35:00.830 [main] INFO  Main.Main - Program was begin
+2021-54-06 19:54:32.819 [main] INFO  Main.Main - Program was begin
+2021-56-06 19:56:03.984 [main] INFO  Main.Main - Program was begin
+2021-07-06 20:07:41.780 [main] INFO  Main.Main - Program was begin
+2021-08-06 20:08:42.945 [main] INFO  Main.Main - Program was begin
+2021-14-06 20:14:53.548 [main] INFO  Main.Main - Program was begin
+2021-16-06 20:16:26.387 [main] INFO  Main.Main - Program was begin
+2021-18-06 20:18:15.056 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'seller.PRIMARY'  |:> 
+2021-30-06 20:30:54.952 [main] INFO  Main.Main - Program was begin
+2021-39-06 20:39:47.801 [main] INFO  Main.Main - Program was begin
+2021-43-06 20:43:09.466 [main] INFO  Main.Main - Program was begin
+2021-43-06 20:43:56.984 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '14' for key 'product.PRIMARY'  |:> 
+2021-57-08 01:57:01.283 [main] INFO  Main.Main - Program was begin
+2021-05-08 03:05:09.668 [main] INFO  Main.Main - Program was begin
+2021-05-08 03:05:14.340 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста выберете значение от 1 до 1000
+2021-06-08 03:06:36.082 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-07-08 03:07:09.047 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-07-08 03:07:16.039 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'product.PRIMARY'  |:> 
+2021-09-08 03:09:47.757 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода цены, ппожалуйста выберете значение от 1 до 50000
+2021-10-08 03:10:59.408 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {S} Ошибка ввода зарплаты, ппожалуйста выберете значение от 11000 до 130000
+2021-11-08 03:11:16.812 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {S} Ошибка ввода Имени, пожалуйста введите название длиной от 10 до 128 символов
+2021-11-08 03:11:44.937 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-29-08 03:29:10.911 [main] INFO  Main.Main - Program was begin
+2021-36-08 03:36:22.917 [main] INFO  Main.Main - Program was begin
+2021-42-08 15:42:44.745 [main] INFO  Main.Main - Program was begin
+2021-42-08 15:42:47.007 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-42-08 15:42:47.021 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-44-08 15:44:15.039 [main] INFO  Main.Main - Program was begin
+2021-44-08 15:44:17.386 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-47-08 15:47:39.641 [main] INFO  Main.Main - Program was begin
+2021-24-08 18:24:48.856 [main] INFO  Main.Main - Program was begin
+2021-24-08 18:24:51.170 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-24-08 18:24:59.865 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-25-08 18:25:24.583 [main] INFO  Main.Main - Program was begin
+2021-25-08 18:25:27.252 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-25-08 18:25:46.494 [main] INFO  Main.Main - Program was begin
+2021-25-08 18:25:48.463 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-26-08 18:26:46.050 [main] INFO  Main.Main - Program was begin
+2021-26-08 18:26:47.948 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-28-08 18:28:07.974 [main] INFO  Main.Main - Program was begin
+2021-28-08 18:28:11.687 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-28-08 18:28:18.869 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-28-08 18:28:23.789 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-28-08 18:28:25.501 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-29-08 18:29:14.914 [main] INFO  Main.Main - Program was begin
+2021-29-08 18:29:17.485 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-29-08 18:29:19.029 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-29-08 18:29:30.280 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-29-08 18:29:59.750 [main] INFO  Main.Main - Program was begin
+2021-30-08 18:30:01.896 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-46-09 14:46:57.184 [main] INFO  Main.Main - Program was begin
+2021-48-09 14:48:06.608 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновть таблицу
+2021-48-09 14:48:26.229 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-50-09 14:50:13.059 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-50-09 14:50:13.078 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-50-09 14:50:20.065 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновть таблицу
+2021-50-09 14:50:21.616 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-53-09 14:53:12.950 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-53-09 14:53:12.951 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-59-09 14:59:27.889 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновть таблицу
+2021-59-09 14:59:29.159 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-59-09 14:59:29.160 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-00-09 15:00:22.907 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-01-09 15:01:34.805 [main] INFO  Main.Main - Program was begin
+2021-28-09 23:28:20.908 [main] INFO  Main.Main - Program was begin
+2021-28-09 23:28:24.372 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-28-09 23:28:30.880 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-31-09 23:31:04.101 [main] INFO  Main.Main - Program was begin
+2021-31-09 23:31:05.974 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-31-09 23:31:56.085 [main] INFO  Main.Main - Program was begin
+2021-31-09 23:31:57.882 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-36-09 23:36:37.075 [main] INFO  Main.Main - Program was begin
+2021-36-09 23:36:43.295 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-32-10 00:32:37.010 [main] INFO  Main.Main - Program was begin
+2021-33-10 00:33:12.033 [main] INFO  Main.Main - Program was begin
+2021-19-10 02:19:50.651 [main] INFO  Main.Main - Program was begin
+2021-19-10 02:19:52.589 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-34-10 03:34:44.726 [main] INFO  Main.Main - Program was begin
+2021-34-10 03:34:49.729 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-27-10 04:27:13.241 [main] INFO  Main.Main - Program was begin
+2021-28-10 04:28:27.626 [main] INFO  Main.Main - Program was begin
+2021-29-10 04:29:03.329 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-29-10 04:29:16.896 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-29-10 04:29:16.939 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {Connect} (SQL) Invalid value|| Неправлиьное занчение(я) в поле(ях) для действия(кнопки) : <Добавить> 
+<:| java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'seller.PRIMARY'  |:> 
+2021-29-10 04:29:25.090 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-29-10 04:29:25.091 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {S} Ошибка ввода ID, пожалуйста выберете значение от 1 до 1000
+2021-30-10 04:30:04.600 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-31-10 04:31:41.575 [main] INFO  Main.Main - Program was begin
+2021-31-10 04:31:44.337 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-56-23 23:56:36.601 [main] INFO  Main.Main - Program was begin
+2021-56-23 23:56:44.247 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-56-23 23:56:51.167 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-56-23 23:56:58.283 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-56-23 23:56:59.196 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-56-23 23:56:59.206 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода: вы оставили пустое занчение
+2021-57-23 23:57:09.751 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-57-23 23:57:09.752 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста не оставляете поле пустым
+2021-58-23 23:58:48.873 [main] INFO  Main.Main - Program was begin
+2021-55-28 19:55:44.765 [main] INFO  Main.Main - Program was begin
+2021-56-28 19:56:11.900 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-56-28 19:56:43.547 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-56-28 19:56:46.097 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-56-28 19:56:48.074 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-56-28 19:56:48.086 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-56-28 19:56:56.938 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-57-28 19:57:10.886 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-58-28 19:58:54.522 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновть таблицу
+2021-58-28 19:58:55.214 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновть таблицу
+2021-59-28 19:59:22.663 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-59-28 19:59:22.665 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода специализации, ппожалуйста выберете значение от 1 до 256
+2021-59-28 19:59:38.046 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-59-28 19:59:38.046 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {AS} Ошибка ввода специализации, ппожалуйста выберете значение от 1 до 256
+2021-55-24 20:55:38.909 [main] INFO  Main.Main - Program was begin
+2021-55-24 20:55:43.512 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-51-11 00:51:22.164 [main] INFO  Main.Main - Program was begin
+2021-51-11 00:51:58.989 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-32-12 22:32:43.083 [main] INFO  Main.Main - Program was begin
+2021-38-08 18:38:32.487 [main] INFO  Main.Main - Program was begin
+2021-38-08 18:38:35.093 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Получить отчет ПДФ на рабочий стол
+2021-44-08 18:44:27.306 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-44-08 18:44:27.328 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста не оставляете поле пустым
+2021-44-08 18:44:29.692 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-44-08 18:44:29.693 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста не оставляете поле пустым
+2021-44-08 18:44:33.496 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: О программе
+2021-44-08 18:44:39.422 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-44-08 18:44:40.263 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-44-08 18:44:40.265 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-44-08 18:44:46.378 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-44-08 18:44:46.379 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода ID, пожалуйста не оставляете поле пустым
+2021-44-08 18:44:50.463 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-44-08 18:44:50.465 [JavaFX Application Thread] WARN  CheckerERROR.Alert -  Called from: {PR} Ошибка ввода: вы оставили пустое занчение
+2021-44-08 18:44:54.539 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-44-08 18:44:57.273 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-44-08 18:44:57.549 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Добавить
+2021-45-08 18:45:01.913 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Удалить
+2021-45-08 18:45:02.730 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-45-08 18:45:03.492 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
+2021-45-08 18:45:04.013 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-45-08 18:45:07.866 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-45-08 18:45:10.682 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Редактировать
+2021-45-08 18:45:23.033 [JavaFX Application Thread] INFO  Controllers.ProductController - Ты нажал на: Обновить таблицу
